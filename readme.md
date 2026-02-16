@@ -7,7 +7,7 @@ Trabajo construyendo **soluciones end-to-end** para entornos B2B: integraciones 
 
 ---
 
-## 🚀 Qué hago
+## Qué hago
 
 - **Automatización e IA aplicada**: agentes conversacionales y flujos orquestados (Langflow/LangChain, enfoques RAG).
 - **Integraciones**: conexión entre sistemas internos y de terceros via APIs/webhooks (cuando aplica, canales tipo WhatsApp y herramientas de soporte).
@@ -16,7 +16,7 @@ Trabajo construyendo **soluciones end-to-end** para entornos B2B: integraciones 
 
 ---
 
-## 🧩 Proyectos destacados
+## Proyectos destacados
 
 - 🔄 **[File Converter](https://github.com/totoathos/file-converter)**  
   App en **Python + Streamlit** para convertir archivos comunes (imágenes/CSV-XLSX/audio).
@@ -30,11 +30,11 @@ Trabajo construyendo **soluciones end-to-end** para entornos B2B: integraciones 
 - ⛓️ **[Coppay Core](https://github.com/coppaykipu/coppay-core)**  
   Smart contracts en **Solidity** (propuestas + votación en rondas + vault + controles de seguridad).
 
-- ⛓️ **[Cyqstats](https://github.com/coppaykipu/cyqstats)**  
+- 🚀 **[Cyqstats](https://github.com/coppaykipu/cyqstats)**  
   Librería de Python para calcular estadísticas en tiempo real
 ---
 
-## 🛠️ Stack
+## Stack
 
 **Automatización / Backend**: Python, Java  
 **IA / Orquestación**: Langflow, LangChain, RAG  
