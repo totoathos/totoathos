@@ -31,7 +31,7 @@ Trabajo construyendo **soluciones end-to-end** para entornos B2B: integraciones 
   Smart contracts en **Solidity** (propuestas + votación en rondas + vault + controles de seguridad).
 
 - 🚀 **[Cyqstats](https://github.com/coppaykipu/cyqstats)**  
-  Librería de Python para calcular estadísticas en tiempo real
+  Librería de Cython para calcular estadísticas en tiempo real
 ---
 
 ## Stack
